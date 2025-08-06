@@ -2,6 +2,8 @@
 name = "gd-resource-derive"
 version = "0.1.0"
 edition = "2024"
+license = ""
+description = "proc macro that does `impl into<$YOUR_STRUCT> for godot::prelude::Resource`"
 
 [lib]
 proc-macro = true
