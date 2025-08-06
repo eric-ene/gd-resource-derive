@@ -1,5 +1,5 @@
 [package]
-name = "gd_resource_derive"
+name = "gd-resource-derive"
 version = "0.1.0"
 edition = "2024"
 
